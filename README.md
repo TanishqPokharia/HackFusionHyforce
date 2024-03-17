@@ -1,17 +1,12 @@
-# prognosify
+# PROGNOSIFY: Predict, Prevent, Prevail
 
-A new Flutter project.
+**Prognosify is a revolutionary preventive healthcare app, utilizing predictive analytics to foresee potential health issues based on some general yet important symptoms. The App is a one stop platform that can find hidden patterns in the lifestyle of individuals with the help of Artificial Intelligence by incorporating their Sleep, BMI, Calories and other data.  Along with the potential health issues predictions, the app seamlessly integrates registered doctors for insightful consultations by offering Doctors a wholesome view of a patient’s lifestyle and significant insights for a more accurate prognosis, offers comprehensive health recommendations, provides access to a healthcare ecosystem, simplifies medical reports with the power of Artificial Intelligence, and ensures medication adherence with automatic reminders.**
 
-## Getting Started
+## PATIENT POV DEMO VIDEO
 
-This project is a starting point for a Flutter application.
-App Link - https://drive.google.com/drive/folders/1jBI0wfUPlLFXKywKsv_XiuxEdbss4RqR?usp=drive_link
+https://youtu.be/aBbo37wM-8M
 
-A few resources to get you started if this is your first Flutter project:
+## DOWNLOAD APP
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://drive.google.com/drive/folders/1jBI0wfUPlLFXKywKsv_XiuxEdbss4RqR?usp=drive_link
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
