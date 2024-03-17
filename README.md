@@ -18,3 +18,6 @@ https://drive.google.com/drive/folders/1jBI0wfUPlLFXKywKsv_XiuxEdbss4RqR?usp=dri
 ### Chat Assistant API:
 **Folder containing API source code for the Prognosify Assistant and Report Summarizer**
 
+### Flutter App Code:
+**The entire flutter code for the app can be found in the lib folder, with neatly divided folders for each purpose.**
+
