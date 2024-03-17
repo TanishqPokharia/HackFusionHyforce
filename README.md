@@ -10,3 +10,11 @@ https://youtu.be/aBbo37wM-8M
 
 https://drive.google.com/drive/folders/1jBI0wfUPlLFXKywKsv_XiuxEdbss4RqR?usp=drive_link
 
+## FOLDERS GUIDE
+
+### Model API: 
+**Folder containing API source code for the Predictive Model and Prescription Mailer Backend**
+
+### Chat Assistant API:
+**Folder containing API source code for the Prognosify Assistant and Report Summarizer**
+
